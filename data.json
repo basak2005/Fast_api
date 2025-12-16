@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "source": "Design Me Data API",
+    "version": "2.0",
+    "last_updated": "2025-10-06T12:00:00Z"
+  },
+  "stocks": [
+    {
+      "symbol": "INFY",
+      "name": "Infosys Ltd.",
+      "price": 1562.45,
+      "change": 12.35,
+      "percent_change": 0.8,
+      "volume": 4523400,
+      "market_cap": 656000000000,
+      "sector": "IT Services"
+    },
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services Ltd.",
+      "price": 3621.70,
+      "change": -8.45,
+      "percent_change": -0.23,
+      "volume": 1832000,
+      "market_cap": 1320000000000,
+      "sector": "IT Services"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank Ltd.",
+      "price": 1524.30,
+      "change": 5.10,
+      "percent_change": 0.34,
+      "volume": 3798000,
+      "market_cap": 1150000000000,
+      "sector": "Banking"
+    },
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries Ltd.",
+      "price": 2534.20,
+      "change": 14.10,
+      "percent_change": 0.56,
+      "volume": 5012000,
+      "market_cap": 1700000000000,
+      "sector": "Energy"
+    },
+    {
+      "symbol": "ITC",
+      "name": "ITC Ltd.",
+      "price": 468.75,
+      "change": -3.20,
+      "percent_change": -0.68,
+      "volume": 2890000,
+      "market_cap": 580000000000,
+      "sector": "FMCG"
+    }
+  ]
+}
